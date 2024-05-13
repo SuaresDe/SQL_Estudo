@@ -1,0 +1,1 @@
+SELECT * FROM tabela_clientes WHERE nome_cliente > 'C';
